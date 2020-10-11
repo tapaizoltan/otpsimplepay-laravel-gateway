@@ -1,0 +1,19 @@
+{
+    "name": "taki47/otpsimplepay",
+    "description": "simplepay for laravel",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "taki47",
+            "email": "taki47@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Taki47\\Otpsimplepay\\": "src/"
+        }
+    }
+}
