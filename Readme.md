@@ -40,7 +40,7 @@ OTP_PAYMENT_LOG_CHANNEL="simplePay"
 OTP_PAYMENT_SANDBOX=true
 ```
 
-## That's it! Happy fun :-)
+## That's it! Happy code :-)
 
 ## Example code - Start payment
 ```php
