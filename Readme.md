@@ -27,6 +27,8 @@ composer update
 ```
 
 ## USAGE
+Create a custom log channel is you wan't. If not, and OTP_PAYMENT_LOG settings is true, set the OTP_PAYMENT_LOG_CHANNEL to "daily"
+
 Add these settings to your .env file
 ```php
 OTP_PAYMENT_CURRENCY="HUF"
