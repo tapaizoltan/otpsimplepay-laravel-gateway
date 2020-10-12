@@ -63,12 +63,10 @@ class PublicController extends Controller
         // 01: guest
         // 02: registered
         // 05: third party
-        //-----------------------------------------------------------------------------------------
         $simplePay->addData('threeDSReqAuthMethod', '02');
 
         // EMAIL
         // customer's email
-        //-----------------------------------------------------------------------------------------
         $simplePay->addData('customerEmail', "taki47@gmail.com");
 
         // METHODS
