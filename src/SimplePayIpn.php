@@ -95,7 +95,6 @@ class SimplePayIpn {
         $this->setConfig();
 
         $this->validationResult = false;
-        dd($content." - ".$signature);
         if ($this->isCheckSignature($content, $signature)) {
             $this->validationResult = true;
         }
