@@ -335,7 +335,7 @@ class Base {
         }
 
         $this->config['api'] = 'live';
-        if ($this->config['SANDBOX']) {
+        if ( $this->config['SANDBOX']=="true" ) {
             $this->config['api'] = 'sandbox';
         }
         $this->logContent['environment'] = strtoupper($this->config['api']);
