@@ -4,7 +4,7 @@ This module helps you to easily embed an OTP SimplePay payment solution into you
 
 Fejlesztőknek
 Dokumentációk, segédletek és minden féle hasznos fejlesztést támogató anyag. \
-Az OTP Simplepay hivatalos illesztés az alábbi linken érhető el: [dokumentáció]([https://github.com/khpos/Payment-gateway_HU](https://simplepay.hu/fejlesztoknek/))
+Az OTP Simplepay hivatalos illesztés az alábbi linken érhető el: [dokumentáció]([https://simplepay.hu/fejlesztoknek/])
 
 ## IMPORTANT!!!
 This module is not an official OTP module. Use at your own risk!
